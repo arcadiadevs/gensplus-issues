@@ -17,6 +17,11 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
+**Config**
+```
+Your gensplus config
+```
+
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
