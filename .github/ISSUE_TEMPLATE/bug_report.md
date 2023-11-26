@@ -24,6 +24,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Additional info (please complete the following information):**
+ - Your GensPlus version
  - Spigot Version: [e.g. PaperSpigot 1.18.2]
  - Using ViaVersion/ProtocolSupport [e.g. yes/no]
  - Your MC version: [e.g. 1.18.2]
